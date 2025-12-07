@@ -1,2 +1,1 @@
-# ga8-marimo-test
-GA8 Marimo Notebook
+# Marimo Notebook\n\nSubmitted by: test@example.com
